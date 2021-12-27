@@ -20,7 +20,7 @@ body{
   justify-content: space-between;
   align-items: center;
 }
-#prifileNameBox{
+#profileNameBox{
   display: flex;
   justify-content: flex-start;
   align-items: center;
